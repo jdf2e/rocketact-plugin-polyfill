@@ -1,3 +1,6 @@
+# This repo has been archived. Please refer to https://github.com/jdf2e/rocketact
+
+
 # rocketact-plugin-polyfill
 
 Automaticlly include polyfills for projects created by rocketact.
